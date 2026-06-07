@@ -1,1 +1,2 @@
 This is the first line to the story.
+This is the second line.
